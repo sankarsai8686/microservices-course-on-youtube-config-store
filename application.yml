@@ -3,6 +3,3 @@ spring:
     url: jdbc:mysql://localhost:3306/sankar
     username: root
     password: root
-  jpa:
-    hibernate:
-      ddl-auto: update
